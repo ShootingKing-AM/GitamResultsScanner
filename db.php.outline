@@ -1,0 +1,6 @@
+<?php 
+
+	define( 'DB_HOST', '<DB HostHere>' );
+	define( 'DB_USER', '<DB User>' );
+	define( 'DB_PASS', '<DB Pass>' );
+	define( 'DB_DBNAME', '<DB Name>' );	
