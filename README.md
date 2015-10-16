@@ -13,3 +13,7 @@ Examples/ contain two examples about how to use this script properly.
 
 * [cURL](http://curl.haxx.se/)
 * [Simple DOM Parser](http://simplehtmldom.sourceforge.net/)
+
+#### To Do
+
+ResultStats website, graphs, performance plots, comparisons, ranks, ....
