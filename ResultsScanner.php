@@ -5,9 +5,7 @@
 	{
 		echo getResultFromServer( $_POST['rg'], $_POST['sem'], $_POST['mode'] );
 	}
-	
-	getResultFromServer('1210813131', '4', 0);
-	
+		
 	function getResultFromServer($rg, $sem, $mode)
 	{
 		$ch = curl_init();
